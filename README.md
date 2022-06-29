@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valentin-demange
 - 👀 I’m interested in hiking, kitesurfing and snowboarding
-- 🌱 I’m currently learning frontend dev
+- 🌱 I’m currently learning web dev
 - 📫 How to reach me twitter @valcunfou
 
 <!---
