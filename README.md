@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @valentin-demange
-- 🌱 I’m currently learning web development
-- 👀 I’m interested in mountain hiking, snowboarding and kitesurfing
+👋 Hi, I’m @valentin-demange
+🌱 Currently learning web development (React, Node) thanks to The Odin Project
