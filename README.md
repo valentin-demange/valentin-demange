@@ -8,3 +8,7 @@
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Chakra-UI](https://chakra-ui.com/)
+
+🕸 Where to find me ?
+- [Malt](https://www.malt.fr/profile/valentindemange)
+- [Linkedin](https://www.linkedin.com/in/valentin-demange-45943462/)
