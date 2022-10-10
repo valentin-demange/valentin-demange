@@ -1,4 +1,4 @@
-👋 Hi, I’m @valentin-demange
+👋🏼 Hi, I’m @valentin-demange
 
 👷🏻 Looking for job opportunities as Junior Front-end Developer
 
