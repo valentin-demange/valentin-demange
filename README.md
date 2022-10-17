@@ -1,4 +1,4 @@
-👋🏼 Hi, I’m @valentin-demange. Graduated from CentraleSupelec in 2013, I've been programming (Matlab & Python) for big industrial companies during more than 5 years. I am now looking for professional projects in React / Next.js / Firebase.
+👋🏼 Hi, I’m @valentin-demange. Graduated from CentraleSupelec in 2013, I've been programming (Matlab & Python) for industrial companies during more than 5 years. I am now looking for professional projects in React / Next.js / Firebase.
 
 🚀 Technologies I've worked with:
 - [React](https://reactjs.org/)
