@@ -6,6 +6,11 @@
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Chakra-UI](https://chakra-ui.com/)
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com)
+- [Prisma ORM](https://www.prisma.io/)
+- [Socket.io](https://socket.io/)
+- [JWT](https://jwt.io/)
 
 🕸 Where to find me ?
 - [Malt](https://www.malt.fr/profile/valentindemange)
