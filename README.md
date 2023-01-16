@@ -5,9 +5,9 @@
 | ------ | ------ |
 | [React](https://reactjs.org/) | [Node.js](https://nodejs.org/) |
 | [Next.js](https://nextjs.org/) | [Express](https://expressjs.com) |
-| [TypeScript](https://www.typescriptlang.org/) | [Prisma](https://www.prisma.io/) |
+| [TypeScript](https://www.typescriptlang.org/) | [Prisma ORM](https://www.prisma.io/) |
 | [Chakra-UI](https://chakra-ui.com/) | [Socket.io](https://socket.io/) |
-| [Firebase](https://firebase.google.com/) | [JWT](https://jwt.io/) |
+| [Firebase](https://firebase.google.com/) | [Postgresql](https://www.postgresql.org/) |
 
 🕸 Where to find me ?
 - [Malt](https://www.malt.fr/profile/valentindemange)
