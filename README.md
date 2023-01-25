@@ -1,4 +1,4 @@
-👋🏼 Hi, I’m @valentin-demange. Graduated in 2013 as signal processing engineer, I've been programming (Matlab & Python) for industrial companies during more than 5 years. After completing [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript?) curriculum, I am now looking for professional projects in React / Next.js
+👋🏼 Hi, I’m @valentin-demange. Graduated in 2013 as signal processing engineer, I've been programming (Matlab & Python) for industrial companies during more than 5 years. After completing [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript?) curriculum, I am now seeking a position as full-stack or front-end web developer
 
 🚀 Technologies I've worked with:
 | Front-end | Back-end |
