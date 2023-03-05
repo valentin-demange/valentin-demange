@@ -1,4 +1,4 @@
-👋🏼 Hi, I’m @valentin-demange. Graduated in 2013 as signal processing engineer, I've been programming (Matlab & Python) for industrial companies during more than 5 years. After learning Javascript as self-taught, I am now seeking a position as front-end or full-stack web developer
+👋🏼 Hi, I’m @valentin-demange
 
 🚀 Technologies I've worked with:
 | Front-end | Back-end |
