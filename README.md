@@ -8,7 +8,3 @@
 | [TypeScript](https://www.typescriptlang.org/) | [Prisma ORM](https://www.prisma.io/) |
 | [Chakra-UI](https://chakra-ui.com/) | [Socket.io](https://socket.io/) |
 | [Firebase](https://firebase.google.com/) | [Postgresql](https://www.postgresql.org/) |
-
-🕸 Where to find me ?
-- [Malt](https://www.malt.fr/profile/valentindemange)
-- [Linkedin](https://www.linkedin.com/in/valentin-demange-45943462/)
